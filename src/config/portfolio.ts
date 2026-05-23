@@ -56,7 +56,7 @@ export const portfolio = {
       title: "SaaS Dashboard",
       description:
         "A full-featured analytics dashboard for SaaS products with real-time charts, user management, and billing integration. Built with Next.js and Stripe.",
-      image: "/images/onlineELT1.png",
+      image: "/images/onlineElt1.png",
       github: "https://github.com/alexjohnson/saas-dashboard",
       live: "/portfolio/observaation",
       category: "My Teaching Philosophy",
@@ -67,7 +67,7 @@ export const portfolio = {
       title: "Reflections on Lessons Taught",
       description:
         "A cross-platform mobile task manager with drag-and-drop boards, real-time sync, and team collaboration features built with React Native.",
-      image: "/images/onlineELT1.png",
+      image: "/images/onlineElt1.png",
       tech: ["React Native", "Expo", "Firebase", "TypeScript"],
       github: "https://github.com/alexjohnson/task-manager",
       live: "/portfolio/Reflections",
