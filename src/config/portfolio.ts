@@ -144,7 +144,7 @@ export const portfolio = {
   // ----------------------------------------------------------
   // Project filter categories
   // ----------------------------------------------------------
-  categories: ["All", "My Teaching Philosophy", "TPs Observation Grid", "Reflections on Lessons Taught & TP Report(s)", "Open Source"],
+  categories: ["All", "My Teaching Philosophy", "TPs Observation Grid", "Reflections on Lessons Taught",],
 } as const;
 
 export type Project = typeof portfolio.projects[number];
