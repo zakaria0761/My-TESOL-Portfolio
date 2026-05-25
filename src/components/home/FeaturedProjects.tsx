@@ -29,11 +29,8 @@ export function FeaturedProjects() {
           viewport={{ once: true }}
           transition={{ duration: 0.5 }}
         >
-          <p className="mb-1 text-xs font-semibold uppercase tracking-widest text-muted-foreground">
-            Featured Work
-          </p>
           <h2 className="text-3xl font-bold tracking-tight text-foreground">
-            Projects I&apos;ve built
+            Portfolio
           </h2>
         </motion.div>
 
