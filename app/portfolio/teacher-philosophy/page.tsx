@@ -31,7 +31,7 @@ export default function Page() {
             My teaching approach centers on the individual needs of young learners, using vibrant multimedia tools, animations, games, and music to make English come alive.
             By breaking lessons down into structured, high-energy segments—such as warm-up songs, interactive matching games, and communication-driven guessing games—I ensure that language learning feels natural, intuitive, and, above all, fun.
         </p>
-      <h1 className="text-2xl font-bold text-center">2. Communicative Competence from Day One</h1>
+      <h1 className="text-2xl font-bold text-center">2. Communicative Competence</h1>
         <p>
           My ultimate goal as an educator is to build practical communication skills and student confidence. 
           I design lessons that introduce structured language focus patterns (e.g., "What do you want to be?") and immediately pair them with target vocabulary. 

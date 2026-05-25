@@ -128,17 +128,11 @@ export const portfolio = {
     {
       institution: "Ibn Zohr University, Agadir",
       degree: "Bachelor's Degree in English Studies – Linguistics",
-      period: "2021 — 2024",
+      period: "2024",
       description:
         "Focus: Linguistics, Phonetics/Phonology, Applied Linguistics, Educational Psychology, Syntax, Semantics &Pragmatics, Translation & Interpretation",
     },
-    {
-      institution: "Ibn Zohr University, Agadir",
-      degree: "Associate Degree in English Studies – Linguistics",
-      period: "2019 — 2021",
-      description:
-        "Focus: Reading & Writing Skills, Grammar Foundations, Business Communication, Oral & Spoken English"
-    }
+  
   ],
 
   // ----------------------------------------------------------
